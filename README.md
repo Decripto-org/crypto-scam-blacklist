@@ -33,7 +33,7 @@ We encourage everyone to contribute to the Crypto Scam Blacklist by adding proje
 
    Feel free to use the [template file](./template.md) as a starting point.
 
-7. Scroll down to the "Commit new file" section.
+7. Click on the green "Commit changes..." button.
 
 ![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/4da98a20-7e68-4b46-8f83-377929d5c9d3)
 
