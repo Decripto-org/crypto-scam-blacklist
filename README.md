@@ -33,27 +33,39 @@ We encourage everyone to contribute to the Crypto Scam Blacklist by adding proje
 
    Feel free to use the [template file](./template.md) as a starting point.
 
-6. Scroll down to the "Commit new file" section.
+7. Scroll down to the "Commit new file" section.
 
-7. Provide a meaningful commit message that describes the change you made, such as "Add project: Crypto Ponzi XYZ".
+![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/4da98a20-7e68-4b46-8f83-377929d5c9d3)
 
-8. Optionally, you can provide a brief description of the project in the "Add an optional extended description..." field.
+8. Provide a meaningful commit message that describes the change you made, such as "Add project: Crypto Ponzi XYZ".
 
-9. Ensure that the "Commit directly to the main branch" option is selected.
+9. Optionally, you can provide a brief description of the project in the "Add an optional extended description..." field.
 
-10. Click the "Commit new file" button to save your changes.
+10. Ensure that the "Commit directly to the main branch" option is selected.
 
-11. In your forked repository, navigate to the main page of the repository.
+11. Click the "Commit new file" button to save your changes.
 
-12. Click on the "Pull requests" tab near the top of the page.
+![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/9cf5d720-fce7-46b3-ace0-5e7856b70fb0)
 
-13. Click on the green "New pull request" button.
+12. In your forked repository, navigate to the main page of the repository.
 
-14. On the compare page, ensure that the base repository is set to the original repository (the one you forked from) and the head repository is set to your forked repository.
+13. Click on the "Pull requests" tab near the top of the page.
 
-15. Review the changes you made and provide a clear and concise title and description for your pull request, explaining why the project should be added to the blacklist.
+![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/231c5761-dd82-4531-b58f-fd9e3df5050c)
 
-16. Click the "Create pull request" button to submit your changes.
+14. Click on the green "New pull request" button.
+
+![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/2dbccb22-933e-4c69-9ad7-76e819153af4)
+
+15. On the compare page, ensure that the base repository is set to the original repository (the one you forked from) and the head repository is set to your forked repository.
+
+16. Review the changes you made and provide a clear and concise title and description for your pull request, explaining why the project should be added to the blacklist.
+
+17. Click the "Create pull request" button to submit your changes.
+
+![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/02bfa970-fbf0-43ef-acf6-c03f097231cd)
+
+![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/1b195ee4-3286-4859-862c-f107affd0efd)
 
 Our team will review the pull request as soon as possible. Thank you for contributing to the Crypto Scam Blacklist!
 
