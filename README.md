@@ -2,6 +2,8 @@
 
 Welcome to the Crypto Scam Blacklist repository. This repository aims to provide a public blacklist of dangerous or Ponzi crypto projects. The goal is to raise awareness and help protect the crypto community from potential scams.
 
+![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/5d86773c-02b2-457d-9b30-abfa18683714)
+
 ## How to Contribute
 
 We encourage everyone to contribute to the Crypto Scam Blacklist by adding projects that are deemed to be scams or fraudulent. To contribute, please follow these steps:
