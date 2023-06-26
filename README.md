@@ -10,7 +10,6 @@ We encourage everyone to contribute to the Crypto Scam Blacklist by adding proje
 
 1. **Fork** the repository by clicking the "Fork" button at the top right corner of this page. This will create a copy of the repository in your GitHub account.
 
-![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/942951c5-2556-43c2-b319-78f748d2598b)
 
 ![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/b38bd4aa-a9c7-4362-9e4c-4edf356befe5)
 
