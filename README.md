@@ -6,7 +6,14 @@ Welcome to the Crypto Scam Blacklist repository. This repository aims to provide
 
 ## How to Contribute
 
+You can contribute in 2 ways:
+
+- just filling [this form](https://airtable.com/shrJ0d1vi1J2ZqMdH) to report a person, a wallet, a group or a project.
+- fork this repository in your account, add what you want, and make a pull request.
+
 We encourage everyone to contribute to the Crypto Scam Blacklist by adding projects that are deemed to be scams or fraudulent. To contribute, please follow these steps:
+
+### Steps to fork and contribute in GitHub
 
 1. **Fork** the repository by clicking the "Fork" button at the top right corner of this page. This will create a copy of the repository in your GitHub account.
 
