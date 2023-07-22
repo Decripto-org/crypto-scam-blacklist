@@ -1,0 +1,90 @@
+# Crypto scam and Ponzi schemes
+
+This is the list of crypto ponzi schemes and scams that you have reported to us. Help us add more scams, report illicit projects by filling out [this form](https://airtable.com/shrJ0d1vi1J2ZqMdH), we will check them and add them to this list.
+
+- spacedog
+- FVP Trade
+- UEFA football fund
+- CMG
+- UOC
+- WeWe Global
+- Blackfort
+- People life
+- BE Wearebe
+- Novalusprime
+- Skylex
+- Cliqly
+- Netlyfans
+- SWAG your life
+- Exvam (https://exvam[.]com/)
+- Runiverse
+- Universe 15
+- Vidilook
+- YoCoin
+- Carnelian 12
+- MinerCapital
+- Linework
+- Ultron
+- Streakk
+- World Cup Apes
+- Inbercoin
+- The Fortune Miner
+- Arbitrage Opportunity
+- Rexite
+- Zoo-Kingdom
+- Crypto-Lambo
+- Versobot
+- Shao Bank (https://shaobank[.]com/)
+- Lance Green Sports Betting (https://app.lgreen[.]ai/)
+- Cartier8 
+- Apex Cryptos (https://apex-cryptos[.]com/)
+- Axneb (https://axneb[.]com/)
+- BitBrain (https://bitbrain[.]cc/)
+- 7Days (https://7days[.]finance/)
+- TrustLegend16 (https://trustlegend16[.]com/)
+- TronMiningFarm (https://tronminingfarm[.]com/)
+- Quopi AI (https://quopi[.]ai/)
+- Castle Shopping (https://h5.castleshopping[.]net/)
+- Xpetra (https://xpetra[.]com/)
+- Earn on sports (http://EARNONSPORTS[.]COM)
+- Qliothon (https://www.qliothon[.]com/)
+- K-100 (https://www.k-100[.]net/)
+- Relyfund
+- Circulate money
+- Yield robots
+- Cat
+- Amzdoge
+- Simplx
+- Baked beans
+- Bnbprofites
+- Stablefund
+- Alpha Capital
+- McHarvey Capital
+- Novatech Decentra
+- Bitniro[.]top
+- Animal Farm
+- Cropfarmers
+- Grapes
+- Emp
+- Artemis
+- Winbinary
+- Bitget trade
+- Genesis miner
+- Kyoto protocol
+- Stable one
+- Wealth mountain
+- Optimus
+- Kilma
+- Fxmaster
+- Yellow Fleet Trucking Company
+- Vortic United (https://app.vortic-united[.]com/)
+- Veqber (https://veqber[.]com/)
+- ETF Pool (https://app.etfpool[.]io/)
+- Arkfi (https://app.arkfi[.]io/)
+- Mavie Global (https://www.backoffice.mavie[.]global/)
+- Invesable AI (https://invesableai[.]com/)
+- V-Trades (https://www.vtradesinvestment[.]com/)
+- TFVPM (https://www.tfvpm1[.]com/)
+- 101MM
+- Truth Ministries Global (https://truthministriesglobal[.]org/)
+- IX Global (https://www.ixacademy[.]us/)
