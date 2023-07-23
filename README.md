@@ -1,6 +1,6 @@
 # Crypto scam and Ponzi schemes
 
-This is the list of crypto Ponzi schemes and scams that you have reported to us. Help us add more scams, report illicit projects by filling out [this form](https://airtable.com/shrJ0d1vi1J2ZqMdH), fork this repository and make a pull request, or open an issue. We will check them and add them to this list.
+This is the list of crypto Ponzi schemes and scams that you have reported to us. Help us add more scams, report illicit projects by filling out [this form](https://airtable.com/shrJ0d1vi1J2ZqMdH), or you can fork this repository and make a pull request, or open an issue. We will check them and add them to this list.
 
 - spacedog
 - FVP Trade
