@@ -110,3 +110,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Oil Mall (https://oil-mall.cc/)
 - BRC20U (https://brc20u.com/)
 - Coin My (https://coinmy.io/)
+- Planet (https://joinourplanet[.]com/)
