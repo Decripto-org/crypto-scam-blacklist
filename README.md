@@ -105,3 +105,8 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Daisy (http://daisy[.]global/)
 - ShibAfrica (https://shibaafrica[.]com/)
 - Xcel Equities (https://xcelequities[.]com/)
+- I am gold (https://t[.]me/iamgold999)
+- SVB1983 (https://svb1983[.]com/)
+- Oil Mall (https://oil-mall.cc/)
+- BRC20U (https://brc20u.com/)
+- Coin My (https://coinmy.io/)
