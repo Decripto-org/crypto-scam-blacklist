@@ -17,32 +17,11 @@ We encourage everyone to contribute to the Crypto Scam Blacklist by adding proje
 
 1. **Fork** the repository by clicking the "Fork" button at the top right corner of this page. This will create a copy of the repository in your GitHub account.
 
-![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/7995c0d1-b782-4db2-aa38-538ba6a303ff)
+2. In your forked repository, edit the README file.
 
-![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/b38bd4aa-a9c7-4362-9e4c-4edf356befe5)
-
-2. In your forked repository, navigate to the `blacklist` directory.
-
-![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/23faeeab-b87d-4bdc-9f02-a5469318c0b8)
-
-3. Click on the "Create new file" button.
-
-![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/2639a8e4-b0a1-4f37-91a2-de51b3388023)
-
-4. In the "Name your file..." input field, enter the name of the project you want to blacklist, using lowercase letters and dashes instead of spaces. For example, if the project name is "Crypto Ponzi XYZ," enter `crypto-ponzi-xyz.md`.
-
-5. In the editor, provide the following information about the project:
-
-   - **Project Name**: The name of the project.
-   - **Description**: A brief description of the project and why it is considered dangerous or a scam.
-   - **Evidence**: Any supporting evidence or documentation that showcases the fraudulent nature of the project.
-   - **Additional Notes**: Any additional notes or warnings for users.
-
-   Feel free to use the [template file](./template.md) as a starting point.
+3. Add the project you want
 
 7. Click on the green "Commit changes..." button.
-
-![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/4da98a20-7e68-4b46-8f83-377929d5c9d3)
 
 8. Provide a meaningful commit message that describes the change you made, such as "Add project: Crypto Ponzi XYZ".
 
@@ -51,8 +30,6 @@ We encourage everyone to contribute to the Crypto Scam Blacklist by adding proje
 10. Ensure that the "Commit directly to the main branch" option is selected.
 
 11. Click the "Commit new file" button to save your changes.
-
-![image](https://github.com/Decripto-org/crypto-scam-blacklist/assets/134168296/9cf5d720-fce7-46b3-ace0-5e7856b70fb0)
 
 12. In your forked repository, navigate to the main page of the repository.
 
