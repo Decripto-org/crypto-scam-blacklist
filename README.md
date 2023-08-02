@@ -111,3 +111,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - BRC20U (https://brc20u.com/)
 - Coin My (https://coinmy.io/)
 - Planet (https://joinourplanet[.]com/)
+- Sigmain (https://sigmaininv[.]com)
