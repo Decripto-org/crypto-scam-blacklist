@@ -113,3 +113,5 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Planet (https://joinourplanet[.]com/)
 - Sigmain (https://sigmaininv[.]com)
 - PDM Foundation
+- Starbit
+- OneCoin
