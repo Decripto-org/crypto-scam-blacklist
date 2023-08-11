@@ -112,3 +112,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Coin My (https://coinmy.io/)
 - Planet (https://joinourplanet[.]com/)
 - Sigmain (https://sigmaininv[.]com)
+- PDM Foundation
