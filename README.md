@@ -116,4 +116,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Starbit
 - OneCoin
 - Metaliverail (https://metaliverail[.]com/)
-- Klbb8 (https://m.klbb8.com/)
+- Klbb8 (https://m.klbb8[.]com/)
