@@ -115,3 +115,5 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - PDM Foundation
 - Starbit
 - OneCoin
+- Metaliverail (https://metaliverail[.]com/)
+- Klbb8 (https://m.klbb8.com/)
