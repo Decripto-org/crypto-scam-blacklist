@@ -117,3 +117,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - OneCoin
 - Metaliverail (https://metaliverail[.]com/)
 - Klbb8 (https://m.klbb8[.]com/)
+- Bizveture LTD (https://bizvetureltd[.]com)
