@@ -118,3 +118,11 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Metaliverail (https://metaliverail[.]com/)
 - Klbb8 (https://m.klbb8[.]com/)
 - Bizveture LTD (https://bizvetureltd[.]com)
+- Vacuum Capital LTD
+- Coinset (https://coinset[.]info)
+- EvoRich
+- EvoTech
+- SkyWay Capital
+- FNT (https://fntworld[.]io)
+- Atomic Grocery Company (https://atomicgrocerycompany[.]org/)
+- 
