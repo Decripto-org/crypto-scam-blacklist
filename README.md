@@ -130,3 +130,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Magnate finance (https://magnate[.]finance/)
 - Apex Grant Investment (https://apexgrantinvestmentcompany[.]com/)
 - Navitas Capital (https://navitascapltd[.]com)
+- Clever Capital (https://clevercpt[.]com)
