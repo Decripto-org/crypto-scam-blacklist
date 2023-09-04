@@ -128,3 +128,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Perfect Pro (http://Perfectpro-ltd[.]com)
 - Archex Capital (https://archexcapitalltd[.]com/)
 - Magnate finance (https://magnate[.]finance/)
+- Apex Grant Investment (https://apexgrantinvestmentcompany[.]com/)
