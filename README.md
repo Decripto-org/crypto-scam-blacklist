@@ -129,3 +129,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Archex Capital (https://archexcapitalltd[.]com/)
 - Magnate finance (https://magnate[.]finance/)
 - Apex Grant Investment (https://apexgrantinvestmentcompany[.]com/)
+- Navitas Capital (https://navitascapltd[.]com)
