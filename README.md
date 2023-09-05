@@ -8,6 +8,9 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - CMG
 - UOC
 - WeWe Global
+- UShare
+- DTCoin
+- DTSocialize
 - Blackfort
 - People life
 - BE Wearebe
@@ -131,3 +134,5 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 - Apex Grant Investment (https://apexgrantinvestmentcompany[.]com/)
 - Navitas Capital (https://navitascapltd[.]com)
 - Clever Capital (https://clevercpt[.]com)
+- Growth Pool (https://www.growthpool[.]org/)
+- OROSPAY
