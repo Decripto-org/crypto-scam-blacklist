@@ -136,3 +136,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 132. Clever Capital (https://clevercpt[.]com)
 133. Growth Pool (https://www.growthpool[.]org/)
 134. OROSPAY
+135. stablecoinlimited (https://brightfutures[.]ltd/)
