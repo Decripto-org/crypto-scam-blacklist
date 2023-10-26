@@ -137,3 +137,12 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 133. Growth Pool (https://www.growthpool[.]org/)
 134. OROSPAY
 135. stablecoinlimited (https://brightfutures[.]ltd/)
+136. Roosevelt Assets (https://rooseveltassets[.]com/)
+137. Moon Cash (https://www.mooncash[.]biz/)
+138. RS-Bitcoin RS (https://ronaldosilvars[.]net/)
+139. Rainbow Fund (https://rainbowhighreturn[.]com/)
+140. Bavarsis (https://bavarsis[.]com/)
+141. Vistaqs (https://vistaqs[.]com/)
+142. Robinsons (https://robinsons88[.]vip/)
+143. Ant Crypto (https://antcrypto6[.]club/)
+144. RebatesIncome (https://rebatesincome[.]com/)
