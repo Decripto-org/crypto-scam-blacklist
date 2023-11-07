@@ -137,3 +137,4 @@ This is the list of crypto Ponzi schemes and scams that you have reported to us.
 133. Growth Pool (https://www.growthpool[.]org/)
 134. OROSPAY
 135. stablecoinlimited (https://brightfutures[.]ltd/)
+136. Valemore Limited (https://valemorelimited[.]com)
