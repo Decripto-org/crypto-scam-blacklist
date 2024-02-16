@@ -821,6 +821,7 @@
 ||idmarkets.com^
 ||ifx4u.com^
 ||igcmarkets.com^
+||igeniusglobal.com^
 ||igfmarket.com^
 ||igm-markets.com^
 ||igmc.uk^
