@@ -6,7 +6,7 @@ This repository contains a blocklist of domains associated with crypto scams, co
 
 To use this blocklist download the uBlock Origin extension ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) and follow these steps:
 
-1. Open uBlock Origin's dashboard by clicking on the uBlock Origin icon in your browser, then click on the "Dashboard" button (usually a gear icon).
+1. Open uBlock Origin's dashboard by clicking on the uBlock Origin icon in your browser, then click on the "Dashboard" button (the a gear icon).
 2. Navigate to the "Filter lists" tab.
 3. At the bottom of the page, find the "Custom" section.
 4. Check the box for "Import..." and paste the URL of the `crypto_scam_blocklist.txt` file from this repository. 
