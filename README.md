@@ -9,7 +9,10 @@ To use this blocklist in uBlock Origin, follow these steps:
 1. Open uBlock Origin's dashboard by clicking on the uBlock Origin icon in your browser, then click on the "Dashboard" button (usually a gear icon).
 2. Navigate to the "Filter lists" tab.
 3. At the bottom of the page, find the "Custom" section.
-4. Check the box for "Import..." and paste the URL of the `crypto_scam_blocklist.txt` file from this repository. The URL will be in the format `https://raw.githubusercontent.com/Decripto-org/crypto-scam-blacklist/ublock/crypto_scam_blocklist.txt`.
+4. Check the box for "Import..." and paste the URL of the `crypto_scam_blocklist.txt` file from this repository. 
+	```
+	https://raw.githubusercontent.com/Decripto-org/crypto-scam-blacklist/ublock/crypto_scam_blocklist.txt
+	```
 5. Click "Apply changes" to update your filter lists.
 
 ## Contributing
