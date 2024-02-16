@@ -50,6 +50,7 @@
 ||acces-andreascapital.com^
 ||accesoprivada-crgsa.com^
 ||accesscrypto247.com^
+||acea-ltd.org^
 ||acecrownfx.com^
 ||aceinvesting.io^
 ||achat-bitcoin.com^
@@ -62,6 +63,7 @@
 ||admiral-markets.com^
 ||admiralmarketsltd.co^
 ||advantiumlimited.com^
+||aelf-union.com^
 ||agarthaassetmanagement.com^
 ||agfmarkets.com^
 ||agfxmarkets.com^
@@ -85,6 +87,7 @@
 ||alphatradeplus.com^
 ||alphatradeplus.com^
 ||alternative-markets.com^
+||alyxunion.com^
 ||americanfxbasetrade.com^
 ||amplixx.com^
 ||anchortradesglobal.com^
@@ -98,6 +101,7 @@
 ||apexcrypt.net^
 ||apexfinancefx.online^
 ||apexgrantinvestmentcompany.com^
+||apexone.ai^
 ||app.arkfi.io^
 ||app.cointech2u.com^
 ||app.etfpool.io^
@@ -107,6 +111,7 @@
 ||app.vortic-united.com^
 ||appexcapital.com^
 ||arb-capital.com^
+||arbitrageopportunity.website^
 ||archexcapitalltd.com^
 ||arcofx.com^
 ||ascendex.com^
@@ -208,6 +213,7 @@
 ||bit24coin.com^
 ||bit2d.com^
 ||bitaliana.com^
+||bitblanco.com^
 ||bitbrain.cc^
 ||bitcluster.net^
 ||bitcoin-convert.com^
@@ -274,6 +280,7 @@
 ||bulonze.top^
 ||buy-bitcoin.pagedemo.co^
 ||bvamarket.com^
+||bwwk.vip^
 ||byrix.com^
 ||bytencials.com^
 ||c4iex.com^
@@ -337,6 +344,7 @@
 ||clevercpt.com^
 ||client.eurotrades.com^
 ||client.my24-coin.com^
+||clpskki.com^
 ||clubepargne.com^
 ||clydetrade.co^
 ||clydetrade.pro^
@@ -351,6 +359,7 @@
 ||coinaffirm.com^
 ||coinagetradefx.com^
 ||coincloudfx.com^
+||coincpex.com^
 ||coinfixs.com^
 ||coinfoxltd.com^
 ||coinfx-transact.com^
@@ -446,6 +455,7 @@
 ||cryptos-investing.com^
 ||cryptos-maker.com^
 ||cryptos.solutions^
+||cryptosmart.com^
 ||cryptosmartcapital.com^
 ||cryptosone.com^
 ||cryptospace.agency^
@@ -455,6 +465,7 @@
 ||cryptoviewoption.com^
 ||crystalforex.net^
 ||crystaltradeinvest.com^
+||csrnow.com^
 ||ct-broker.com^
 ||ctoption.com^
 ||currenxro.com/fr^
@@ -462,6 +473,7 @@
 ||daily-option.com^
 ||daisy.global^
 ||dakkengroup.com^
+||daoversal.com^
 ||dapp.aelfunion.com^
 ||dapp.aelfunion.com^
 ||dashfxtrade.com^
@@ -469,6 +481,7 @@
 ||dax1001.com^
 ||daxiron.com^
 ||daxodeal.com^
+||dbmitaliaspa.it^
 ||dcmgroup.io^
 ||dealinpro.com^
 ||delitraders.net^
@@ -480,6 +493,7 @@
 ||directco-invest.com^
 ||directepargne.com^
 ||directlinesustainability.com^
+||doublefinance.io^
 ||dreamworks-film.com^
 ||dreamworks-film.com^
 ||druidicav.com^
@@ -529,6 +543,7 @@
 ||etrade-securities.com^
 ||etradefxlive.com^
 ||eufm.eu^
+||eughi.cc^
 ||euro-crypto.com^
 ||euro-cryptos.com^
 ||eurobondfx.com^
@@ -542,6 +557,7 @@
 ||eurotrade.uk.com^
 ||eurotrades.com^
 ||euroxn.com/es^
+||eworldtrade.vip^
 ||excellencebroker.com^
 ||excitingmarkets.com^
 ||exindex.co^
@@ -1018,6 +1034,7 @@
 ||mirlvia.com^
 ||missoldcarfinance.com^
 ||mmglobalpvt.org^
+||mobileaction-manage.top^
 ||monatrade.com^
 ||mondialbank.com^
 ||moneo-invest.com^
@@ -1125,6 +1142,7 @@
 ||origincrypto.com^
 ||origine-bitcoin.com^
 ||orioncg.com.mx^
+||orotrade.net^
 ||ottofxtrading.com^
 ||oudimining.com^
 ||oxfordmarkets.com^
@@ -1136,6 +1154,7 @@
 ||paragontraders.com^
 ||paraiba-world.ch^
 ||paraibaworld.org^
+||parkertecnologiecondiviseoristano.com^
 ||part-sgps.com^
 ||pattern-trader.net^
 ||pbncapital.com^
@@ -1272,6 +1291,7 @@
 ||spincapitals.com^
 ||stallionfxtrade.com^
 ||stanleyassociatesllc.com^
+||starkware.life^
 ||startmarkets.com^
 ||startoptions.com^
 ||status-mark.com^
@@ -1302,6 +1322,7 @@
 ||svb1983.com^
 ||swaquisition.com^
 ||swiftcryptolimited.com^
+||swiftplatinum.net^
 ||swifyfx.com^
 ||swiss-banque.com^
 ||swiss-kuwaiti.com^
@@ -1320,6 +1341,7 @@
 ||targetglobalinvestments.com^
 ||tcotrade.com^
 ||technopers.com^
+||texscoin.com^
 ||tfvpm1.com^
 ||the-bitcoinpro.com^
 ||the-crypto-genius.net^
@@ -1452,6 +1474,7 @@
 ||vistaqs.com^
 ||vnsmart.com^
 ||vrncapitals.com^
+||vsafecustody.com^
 ||vtradesinvestment.com^
 ||walflo.com^
 ||wallcoingroup.net^
@@ -1462,6 +1485,7 @@
 ||wealthcrypto-ltd.com^
 ||wealthtrade-investment.com^
 ||wealthwayzfx.com^
+||web-trader.live^
 ||web.zurichcorporation.com^
 ||webtrader.sagatrade.io^
 ||weeklytradecryptos.com^
