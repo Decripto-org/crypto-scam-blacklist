@@ -11,7 +11,7 @@ To use this blocklist in uBlock Origin ([Firefox](https://addons.mozilla.org/en-
 3. At the bottom of the page, find the "Custom" section.
 4. Check the box for "Import..." and paste the URL of the `crypto_scam_blocklist.txt` file from this repository. 
 	```
-	https://raw.githubusercontent.com/Decripto-org/crypto-scam-blacklist/ublock/crypto_scam_blocklist.txt
+	https://raw.githubusercontent.com/Decripto-org/crypto-scam-blacklist/main/crypto_scam_blocklist.txt
 	```
 5. Click "Apply changes" to update your filter lists.
 
