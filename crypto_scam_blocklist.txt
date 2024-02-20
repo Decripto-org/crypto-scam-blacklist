@@ -334,6 +334,7 @@
 ||centralebankeurope.com^
 ||centralefinance.com^
 ||centurycityireland.com^
+||cf-groupltd.com^
 ||cfd2fx.com^
 ||cfdadv.com^
 ||cfdadvanced.com^
@@ -501,6 +502,7 @@
 ||dcmgroup.io^
 ||dealinpro.com^
 ||delitraders.net^
+||dellegroup.com^
 ||demo-efg-private.com^
 ||digitalchainfx.com^
 ||digitalinvestio-fx.com^
