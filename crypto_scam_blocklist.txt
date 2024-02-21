@@ -329,6 +329,7 @@
 ||cashmt4fx.com^
 ||cbre-securityplace.com^
 ||ccftrading.com^
+||cditool.com^
 ||cedarfinance.com^
 ||centogx.com^
 ||centralebankeurope.com^
