@@ -1058,6 +1058,7 @@
 ||mhoptions.com^
 ||mhoptions.com^
 ||mhoptions.com^
+||miax-forex.com^
 ||millard-moore.com^
 ||millardmore.com^
 ||miller-options.com^
@@ -1209,6 +1210,7 @@
 ||phoenix-gm.com^
 ||pillarcrypto.com^
 ||pististrustltd.com^
+||pixiemarket.com^
 ||pk66988.com^
 ||planetoption.com^
 ||platformcapitalucits-icav.com^
