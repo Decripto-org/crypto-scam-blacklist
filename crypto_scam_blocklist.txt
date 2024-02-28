@@ -821,6 +821,7 @@
 ||hcifund.com^
 ||helperedge.com^
 ||herdos.com^
+||hiblindbox.com^
 ||highbroker.com^
 ||hillfinservices.co.uk^
 ||hispamarkets.com^
