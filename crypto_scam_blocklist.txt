@@ -331,6 +331,7 @@
 ||cbre-securityplace.com^
 ||ccftrading.com^
 ||cditool.com^
+||cdxep.co^
 ||cedarfinance.com^
 ||centogx.com^
 ||centralebankeurope.com^
@@ -1179,6 +1180,7 @@
 ||optionside.com^
 ||optionsmarter.com^
 ||optionsxo.com^
+||orangeztra.com^
 ||orbitgtm-pro.net^
 ||originalcrypto.com^
 ||originalcrypto.com^
