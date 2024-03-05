@@ -1096,6 +1096,7 @@
 ||mycrypto24.com^
 ||myforex-trade.com^
 ||myfxstar.org^
+||myneodash.com^
 ||myomegapro.com^
 ||myselftrade.com^
 ||mystocks24.io^
