@@ -65,6 +65,7 @@
 ||admiralmarketsltd.co^
 ||advantiumlimited.com^
 ||aelf-union.com^
+||aelfunion.com^
 ||afriqjmarbitrage.us^
 ||agarthaassetmanagement.com^
 ||agfmarkets.com^
@@ -136,6 +137,7 @@
 ||avatrade.com^
 ||avenir-crypto.com^
 ||avibonds.com^
+||aviva-ltd.com^
 ||axeinvest.com^
 ||axeinvest.com^
 ||axneb.com^
@@ -490,6 +492,7 @@
 ||ctoption.com^
 ||currenxro.com/fr^
 ||cvcgroups.com^
+||cybertrace.com.au^
 ||daily-option.com^
 ||daisy.global^
 ||dakkengroup.com^
@@ -1202,6 +1205,7 @@
 ||parkertecnologiecondiviseoristano.com^
 ||part-sgps.com^
 ||pattern-trader.net^
+||payback-ltd.com^
 ||pbncapital.com^
 ||pbninvest.com^
 ||pbninvest.com^
