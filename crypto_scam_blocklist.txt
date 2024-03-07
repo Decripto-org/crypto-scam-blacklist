@@ -879,6 +879,7 @@
 ||inertiafinance.co^
 ||infinity-bank.com^
 ||infinity4x.com^
+||infobiz.com^
 ||infoconso.info^
 ||infoscrypto.com^
 ||infxcoinkapita.com^
@@ -1023,6 +1024,7 @@
 ||lplfinances.eu^
 ||lplfinances.eu^
 ||lplinvest.com^
+||lucavalori.com^
 ||luxecapitalfund.com^
 ||luxeinvesting.com^
 ||luxinvestment.co^
