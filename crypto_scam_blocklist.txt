@@ -351,6 +351,7 @@
 ||cfxmarkets.com^
 ||cfxpoint.com^
 ||charlgate.net^
+||changelly.com^
 ||chilizpreco.com^
 ||chs-fnds.com^
 ||ciizurnfx.com^
