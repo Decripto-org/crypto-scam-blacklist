@@ -148,6 +148,7 @@
 ||bancdemonaco.com^
 ||bancmarkets.com^
 ||banco-binario.com^
+||bancorland.com^
 ||bank-crypto.com^
 ||bank-invest.com^
 ||bank-of-crypto.com^
@@ -257,6 +258,7 @@
 ||bocapital.com^
 ||boersenaufsicht.center^
 ||booking-522.com^
+||bookinghotel-word.com^
 ||boomforex.net^
 ||bordeaux9.com^
 ||bordeauxdirect1969.com^
