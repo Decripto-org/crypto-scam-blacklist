@@ -1320,6 +1320,8 @@
 ||schermannchronicleassoc.com^
 ||scorpiovc.com^
 ||scottoption.com^
+||seaevolution.com^
+||seatrade.network^
 ||secondrenaissance.com^
 ||secoyaprivateequity.com^
 ||securedforexoptions.com^
@@ -1528,6 +1530,7 @@
 ||universalbourse.com^
 ||universalpictures8.com^
 ||uniwswap.com^
+||unlimited-robot.com^
 ||utcinvest.com^
 ||valartiscrypto.com^
 ||valemorelimited.com^
