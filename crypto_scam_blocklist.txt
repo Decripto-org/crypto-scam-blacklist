@@ -1588,6 +1588,7 @@
 ||xcoinbroker.com^
 ||xecryptobank.com^
 ||xecryptobank.com^
+||xera.pro^
 ||xfroptions.com^
 ||xpertmarket.com^
 ||xpetra.com^
@@ -1605,6 +1606,7 @@
 ||zarforex.com^
 ||zealinvest.com^
 ||zebrainvest.com^
+||zenit.world^
 ||zeoption.com^
 ||zinso.at^
 ||zoebroker.com^
