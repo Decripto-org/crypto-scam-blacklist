@@ -528,6 +528,7 @@
 ||dreamworks-film.com^
 ||dripcommunityapp.org^
 ||druidicav.com^
+||dtsmoney.com^
 ||dubaifxm.com^
 ||dubaifxm.com^
 ||dubaifxm24.com^
@@ -1107,6 +1108,7 @@
 ||mycrypto24.com^
 ||myforex-trade.com^
 ||myfxstar.org^
+||mymaia.ai^
 ||myneodash.com^
 ||myomegapro.com^
 ||myselftrade.com^
