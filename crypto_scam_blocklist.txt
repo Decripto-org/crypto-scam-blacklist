@@ -4,8 +4,8 @@
 ||11eabay.com^
 ||1875-financeinvest.com^
 ||1wowei.xyz^
-||21stoptions.com^
 ||2139.com^
+||21stoptions.com^
 ||22-trading.com^
 ||2251ws.com^
 ||247protrade.com^
@@ -84,8 +84,8 @@
 ||allfinancialmarkets.com^
 ||alliance-capital.cc^
 ||alliance-capital.io^
-||alpari.com^
 ||alpari.com/es^
+||alpari.com^
 ||alphacryptotradefx.com^
 ||alphaforex.eu^
 ||alphafx24.com^
@@ -352,8 +352,8 @@
 ||cfmcapital.com^
 ||cfxmarkets.com^
 ||cfxpoint.com^
-||charlgate.net^
 ||changelly.com^
+||charlgate.net^
 ||chilizpreco.com^
 ||chs-fnds.com^
 ||ciizurnfx.com^
@@ -533,8 +533,8 @@
 ||dubaifxm24.com^
 ||dubaifxm24.com^
 ||dynamiccryptotraders.com^
-||e-quantumoptions.com^
 ||e-catch.cc^
+||e-quantumoptions.com^
 ||eastcapitalmarkets.com^
 ||easycoinfx.com^
 ||easyxp.com^
@@ -1150,6 +1150,7 @@
 ||nstradefx.com^
 ||nvestpro.world^
 ||nvisionu.com^
+||oasispv.com^
 ||obinarycorporation.com^
 ||obmarkets.com^
 ||obroker.com^
@@ -1282,8 +1283,8 @@
 ||quopi.ai^
 ||raceoption.com^
 ||rachatbitcoin.com^
-||rakutena.net^
 ||rainbowhighreturn.com^
+||rakutena.net^
 ||rbinary.com^
 ||rbsbourse.com^
 ||realcryptoworld.com^
@@ -1411,9 +1412,9 @@
 ||targetglobalinvestments.com^
 ||tcotrade.com^
 ||technopers.com^
-||texscoin.com^
 ||tesla-vip10.com^
 ||tesxcoin.com^
+||texscoin.com^
 ||tfvpm1.com^
 ||the-bitcoinpro.com^
 ||the-crypto-genius.net^
