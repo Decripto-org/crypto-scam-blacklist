@@ -4,8 +4,8 @@
 ||11eabay.com^
 ||1875-financeinvest.com^
 ||1wowei.xyz^
-||21stoptions.com^
 ||2139.com^
+||21stoptions.com^
 ||22-trading.com^
 ||2251ws.com^
 ||247protrade.com^
@@ -84,8 +84,8 @@
 ||allfinancialmarkets.com^
 ||alliance-capital.cc^
 ||alliance-capital.io^
-||alpari.com^
 ||alpari.com/es^
+||alpari.com^
 ||alphacryptotradefx.com^
 ||alphaforex.eu^
 ||alphafx24.com^
@@ -352,8 +352,8 @@
 ||cfmcapital.com^
 ||cfxmarkets.com^
 ||cfxpoint.com^
-||charlgate.net^
 ||changelly.com^
+||charlgate.net^
 ||chilizpreco.com^
 ||chs-fnds.com^
 ||ciizurnfx.com^
@@ -528,13 +528,14 @@
 ||dreamworks-film.com^
 ||dripcommunityapp.org^
 ||druidicav.com^
+||dtsmoney.com^
 ||dubaifxm.com^
 ||dubaifxm.com^
 ||dubaifxm24.com^
 ||dubaifxm24.com^
 ||dynamiccryptotraders.com^
-||e-quantumoptions.com^
 ||e-catch.cc^
+||e-quantumoptions.com^
 ||eastcapitalmarkets.com^
 ||easycoinfx.com^
 ||easyxp.com^
@@ -1107,6 +1108,7 @@
 ||mycrypto24.com^
 ||myforex-trade.com^
 ||myfxstar.org^
+||mymaia.ai^
 ||myneodash.com^
 ||myomegapro.com^
 ||myselftrade.com^
@@ -1150,6 +1152,7 @@
 ||nstradefx.com^
 ||nvestpro.world^
 ||nvisionu.com^
+||oasispv.com^
 ||obinarycorporation.com^
 ||obmarkets.com^
 ||obroker.com^
@@ -1282,8 +1285,8 @@
 ||quopi.ai^
 ||raceoption.com^
 ||rachatbitcoin.com^
-||rakutena.net^
 ||rainbowhighreturn.com^
+||rakutena.net^
 ||rbinary.com^
 ||rbsbourse.com^
 ||realcryptoworld.com^
@@ -1413,9 +1416,9 @@
 ||targetglobalinvestments.com^
 ||tcotrade.com^
 ||technopers.com^
-||texscoin.com^
 ||tesla-vip10.com^
 ||tesxcoin.com^
+||texscoin.com^
 ||tfvpm1.com^
 ||the-bitcoinpro.com^
 ||the-crypto-genius.net^
@@ -1592,6 +1595,7 @@
 ||xcoinbroker.com^
 ||xecryptobank.com^
 ||xecryptobank.com^
+||xera.pro^
 ||xfroptions.com^
 ||xpertmarket.com^
 ||xpetra.com^
@@ -1609,6 +1613,7 @@
 ||zarforex.com^
 ||zealinvest.com^
 ||zebrainvest.com^
+||zenit.world^
 ||zeoption.com^
 ||zinso.at^
 ||zoebroker.com^
