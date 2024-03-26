@@ -1480,6 +1480,7 @@
 ||tradingbloom.com^
 ||tradingbullltd.com^
 ||tradingfxglobal.com^
+||tradingstatisticsview.com^
 ||tradingtech.io^
 ||tradingtech.io^
 ||traditionf.com^
