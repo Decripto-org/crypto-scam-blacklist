@@ -1049,6 +1049,7 @@
 ||markets-capital.com^
 ||markets-central-investment.com^
 ||markets-investment.com^
+||marketsac.eu^
 ||marketsbroker.com^
 ||marketseu.com^
 ||marketseufx.com^
