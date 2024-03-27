@@ -198,6 +198,7 @@
 ||bforoption.com^
 ||bfxoption.com^
 ||bhmmarket.com^
+||bienestarville.com^
 ||bigoption.com^
 ||binamax.com^
 ||binareo.com^
@@ -747,7 +748,6 @@
 ||galicfx.com^
 ||gamebtcfx.com^
 ||garrettcapitalpartners.com^
-||gate.io^
 ||gbrforex.com^
 ||gcitrading.com^
 ||geld-finanz.com^
@@ -837,6 +837,7 @@
 ||hispamarkets.com^
 ||hitbtc.com^
 ||homeofstockfx.com^
+||hoteles.com^
 ||hotforex-crypto.trade^
 ||howard-hagen.com^
 ||hqbroker.com^
@@ -1594,6 +1595,7 @@
 ||wvhethical.com^
 ||x90.com^
 ||xcelequities.com^
+||xcelholdingsltd.com^
 ||xcoinbroker.com^
 ||xecryptobank.com^
 ||xecryptobank.com^
