@@ -577,6 +577,7 @@
 ||ether-invest.com^
 ||etrade-securities.com^
 ||etradefxlive.com^
+||etuktuk.io^
 ||eufm.eu^
 ||eughi.cc^
 ||euro-crypto.com^
@@ -1421,6 +1422,7 @@
 ||targetglobalinvestments.com^
 ||targetglobalinvestments.com^
 ||tcotrade.com^
+||tcvvip5.com^
 ||technopers.com^
 ||tesla-vip10.com^
 ||tesxcoin.com^
