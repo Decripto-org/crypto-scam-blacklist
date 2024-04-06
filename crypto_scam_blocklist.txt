@@ -1545,6 +1545,7 @@
 ||uniwswap.com^
 ||unlimited-robot.com^
 ||utcinvest.com^
+||utctoken.com^
 ||valartiscrypto.com^
 ||valemorelimited.com^
 ||validfxarena.online^
