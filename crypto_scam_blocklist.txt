@@ -560,6 +560,7 @@
 ||empireoption.com^
 ||empiretrading.net^
 ||empowerlife.club^
+||emx.vip^
 ||en.berenbergholdings.com^
 ||enclavefx.com^
 ||energymarkets.io^
@@ -1297,6 +1298,7 @@
 ||redforoption.com^
 ||ref.aisharing.ai^
 ||rescapinvestment.com^
+||resoneo-global.com^
 ||revenyou.io^
 ||rewline.io^
 ||rewline.tech^
