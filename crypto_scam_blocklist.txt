@@ -175,6 +175,7 @@
 ||bclaysmarkets.com^
 ||bclbrokers.com^
 ||bcoin-bank.com^
+||bdmbet.com^
 ||beipartners.com^
 ||bennpipsfx.com^
 ||berekley-fisher.com^
