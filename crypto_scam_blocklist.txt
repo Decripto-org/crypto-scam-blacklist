@@ -1327,6 +1327,7 @@
 ||sagatrade.io^
 ||sagatrade.netc^
 ||sagebit.io^
+||satoshidex.ai^
 ||save-coins.com^
 ||schermannchronicleassoc.com^
 ||scorpiovc.com^
