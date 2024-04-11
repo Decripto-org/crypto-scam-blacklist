@@ -67,6 +67,7 @@
 ||advantiumlimited.com^
 ||aelf-union.com^
 ||aelfunion.com^
+||affitads.it^
 ||afriqjmarbitrage.us^
 ||agarthaassetmanagement.com^
 ||agfmarkets.com^
@@ -320,6 +321,7 @@
 ||capitalfxclub.com^
 ||capitalfxexchange.com^
 ||capitalgma.com^
+||capitaliafin-group.com^
 ||capitalisefxinvestment.com^
 ||capitaloffocus.com^
 ||capitalonefx.com^
@@ -966,6 +968,7 @@
 ||jbcapitals.com^
 ||jdbr-investissements.com^
 ||jetcapitals.com^
+||jeton.com^
 ||joinourplanet.com^
 ||jpha-conseil.com^
 ||justperfectmarkets.com^
@@ -1322,6 +1325,7 @@
 ||royaltoninvestments.org^
 ||rubblecoins.com^
 ||rushbanq.com^
+||safebit-capital.com^
 ||sagatrade.io^
 ||sagatrade.io^
 ||sagatrade.io^
@@ -1370,6 +1374,7 @@
 ||solutioncrypto.com^
 ||solutionscapitals.com^
 ||spincapitals.com^
+||spritz.link^
 ||stallionfxtrade.com^
 ||stanleyassociatesllc.com^
 ||staraiapp.com^
@@ -1566,6 +1571,7 @@
 ||vrncapitals.com^
 ||vsafecustody.com^
 ||vtradesinvestment.com^
+||waas.network^
 ||walflo.com^
 ||wallcoingroup.net^
 ||wallet-coins.com^
