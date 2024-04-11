@@ -1331,6 +1331,7 @@
 ||sagatrade.io^
 ||sagatrade.netc^
 ||sagebit.io^
+||satoshidex.ai^
 ||save-coins.com^
 ||schermannchronicleassoc.com^
 ||scorpiovc.com^
@@ -1350,6 +1351,7 @@
 ||sharkusdt.vip^
 ||shibaafrica.com^
 ||shift-holdings.com^
+||shopbackll.com^
 ||sierrainvest.io^
 ||sierrainvest.pro^
 ||sigmacfd.com^
