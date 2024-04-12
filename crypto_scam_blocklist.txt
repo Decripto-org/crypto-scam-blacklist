@@ -187,6 +187,7 @@
 ||bestrenewableenergyinvestor.com^
 ||beta-venture.com^
 ||betafxtrade.com^
+||betking009.com^
 ||betonspot.com^
 ||bf-investment.net^
 ||bfbmarket.com^
@@ -260,6 +261,7 @@
 ||bo-markets.com^
 ||bocapital.com^
 ||boersenaufsicht.center^
+||bonzanzamall.shop^
 ||booking-522.com^
 ||bookinghotel-word.com^
 ||boomforex.net^
@@ -294,6 +296,7 @@
 ||btc-trends.com^
 ||btcetftoken.io^
 ||btcfx.one^
+||btcmmining.cc^
 ||btec.global^
 ||btokenbank.com^
 ||bullishfxtrade.com^
@@ -347,6 +350,7 @@
 ||centralebankeurope.com^
 ||centralefinance.com^
 ||centurycityireland.com^
+||cerberus-vip.com^
 ||cf-groupltd.com^
 ||cfd2fx.com^
 ||cfdadv.com^
@@ -604,6 +608,7 @@
 ||expertdania-investissement.com^
 ||experttrading1.com^
 ||expresstrade.org^
+||extramall.vip^
 ||extremewealth-crypto.ltd^
 ||extremewealth-crypto.ltd^
 ||exvam.com^
@@ -620,6 +625,7 @@
 ||faucetearner.org^
 ||fb-one.com^
 ||fboption.com^
+||fcbqe.com^
 ||feeltrade.com^
 ||fergofx.com^
 ||fernbrookcapitalpartners.com^
@@ -679,6 +685,7 @@
 ||frxmarkets.com^
 ||fsma.org.uk^
 ||fsmsmart.com^
+||ftacoffeevip.net^
 ||ftradition.com^
 ||fullmarkets.com^
 ||fundcryptosecure.com^
@@ -852,6 +859,7 @@
 ||https://euaktien.de;^
 ||https://sinaracorp.com^
 ||https://soloprime.co^
+||httpswwwkrisshop.vip^
 ||hub-finance.com^
 ||iam-broker.com^
 ||iam-ltd.com^
@@ -888,6 +896,7 @@
 ||incomebonds.uk^
 ||incomebonds.uk^
 ||indexevolve.com^
+||indodax-mall.vip^
 ||inertiafinance.co^
 ||infinity-bank.com^
 ||infinity4x.com^
@@ -1009,6 +1018,7 @@
 ||lenoxinvestmentltd.com^
 ||leuminvest.com^
 ||lexusandmercconsultinggroup.com^
+||lfb-mall.cc^
 ||lfi.io^
 ||lh-broker.com^
 ||lh-crypto.com^
@@ -1071,12 +1081,14 @@
 ||mbinv.eu^
 ||mbinv.eu^
 ||mckenzierecoveries.com^
+||mclarenclub.net^
 ||mcminage.com^
 ||megafxoptions.com^
 ||metacryptoinvests.com^
 ||metaliverail.com^
 ||metatrada.com^
 ||metatrada.com^
+||meteorusdt.com^
 ||metrotrade.world^
 ||mhoptions.com^
 ||mhoptions.com^
@@ -1118,6 +1130,7 @@
 ||mycrypto24.com^
 ||myforex-trade.com^
 ||myfxstar.org^
+||myheaven.io^
 ||mymaia.ai^
 ||myneodash.com^
 ||myomegapro.com^
@@ -1187,6 +1200,7 @@
 ||oneshareplc.com^
 ||onetradeoption.com^
 ||onetwotrade.com^
+||ooxxyy.vip^
 ||openbkgestion.com^
 ||optimal-gains.com^
 ||optimarkets.com^
@@ -1290,9 +1304,11 @@
 ||qliothon.com^
 ||quanloop.com^
 ||quants-trade.com^
+||quantumusdt.vip^
 ||quaysidefundmanagement.com^
 ||quickfxmining.com^
 ||quopi.ai^
+||r-crude.vip^
 ||raceoption.com^
 ||rachatbitcoin.com^
 ||rainbowhighreturn.com^
@@ -1324,6 +1340,7 @@
 ||royalfxpro.eu^
 ||royaltoninvestments.org^
 ||rubblecoins.com^
+||runiverse.org^
 ||rushbanq.com^
 ||safebit-capital.com^
 ||sagatrade.io^
@@ -1348,10 +1365,12 @@
 ||sentinelgrowthltd.com^
 ||server.eurotrade.uk.com^
 ||shaobank.com^
+||sharecy.store^
 ||sharkusdt.vip^
 ||shibaafrica.com^
 ||shift-holdings.com^
 ||shopbackll.com^
+||shpfy.cc^
 ||sierrainvest.io^
 ||sierrainvest.pro^
 ||sigmacfd.com^
@@ -1375,6 +1394,7 @@
 ||solution-invest.com^
 ||solutioncrypto.com^
 ||solutionscapitals.com^
+||spacecrypto.vip^
 ||spincapitals.com^
 ||spritz.link^
 ||stallionfxtrade.com^
@@ -1517,6 +1537,7 @@
 ||trustlegend16.com^
 ||trustpixs.com^
 ||truthministriesglobal.org^
+||trx-core.cc^
 ||twixmarshalsfx.com^
 ||ubinary.com^
 ||ubtforex.com^
@@ -1578,7 +1599,9 @@
 ||wallcoingroup.net^
 ||wallet-coins.com^
 ||wamcapital.co^
+||wandatemall.com^
 ||wbiinvestltd.io^
+||wdc-usdt.com^
 ||wealthcrypto-ltd.com^
 ||wealthcrypto-ltd.com^
 ||wealthtrade-investment.com^
