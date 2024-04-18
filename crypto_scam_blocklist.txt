@@ -34,6 +34,7 @@
 ||77options.com^
 ||7days.finance^
 ||7dayscrypto.com^
+||Alpha-Fund-Bot.com^
 ||Beckercryptoinvestment.com^
 ||Beckercryptoinvestment.com^
 ||Bitforexglobal.com^
@@ -80,6 +81,7 @@
 ||ajbrowdercapital.com^
 ||akj-crypto.com^
 ||akoni-hub.de^
+||al-defi-fundsltd.com^
 ||algo-crypto.com^
 ||algotraderfx.com^
 ||allfinancialmarkets.com^
@@ -146,6 +148,7 @@
 ||b-finances.com^
 ||backoffice.mavie.global^
 ||bairrada-markets.com^
+||baltscapital.com^
 ||bancdemonaco.com^
 ||bancmarkets.com^
 ||banco-binario.com^
@@ -559,6 +562,7 @@
 ||edgecapitalfunds.com^
 ||eiffelinvest.com^
 ||elitechaincapital.com^
+||elitetrustltd.com^
 ||elos-patrimoine.com^
 ||elyseescapital.com^
 ||eminage.com^
@@ -912,6 +916,7 @@
 ||instaforex.com^
 ||integralbroker.com^
 ||integralbroker.com^
+||integrateddigitalasset.com^
 ||interactifonline.com^
 ||interactivecoins.com^
 ||intercomarkets.com^
@@ -1238,6 +1243,7 @@
 ||paragontraders.com^
 ||paraiba-world.ch^
 ||paraibaworld.org^
+||parkershare.shop^
 ||parkertecnologiecondiviseoristano.com^
 ||part-sgps.com^
 ||pattern-trader.net^
@@ -1582,6 +1588,7 @@
 ||valtechfx.com^
 ||valueboom.net^
 ||vantagecapitalfx.com^
+||velcorpxmulti.co^
 ||veqber.com^
 ||verifiedcryptominers.com^
 ||versaillesfinances.com^
