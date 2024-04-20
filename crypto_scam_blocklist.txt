@@ -126,6 +126,7 @@
 ||ascendex.com^
 ||aspoma-capital.com^
 ||assetgroup.xyz^
+||assistente-remoto.com^
 ||astonforex.com^
 ||astonmarkets.com^
 ||astra-zeneca-uk.com^
@@ -870,6 +871,7 @@
 ||ibank-capital.com^
 ||ibcfx.com^
 ||icbc-invest.com^
+||icefx.io^
 ||icmarketingfx.com^
 ||icmarkets.com^
 ||icmtrading.com^
@@ -1663,6 +1665,7 @@
 ||yktwnfsw6p.wixsite.com^
 ||youtradefx.com^
 ||youtradefx.com^
+||zalandoua.top^
 ||zarforex.com^
 ||zealinvest.com^
 ||zebrainvest.com^
