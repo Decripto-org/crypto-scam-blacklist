@@ -1052,6 +1052,7 @@
 ||londoncapitaltrade.com^
 ||londonemanagement.com^
 ||londonfuturemarket.com^
+||lopod.org^
 ||lpleurope.eu^
 ||lplfinances.com^
 ||lplfinances.eu^
