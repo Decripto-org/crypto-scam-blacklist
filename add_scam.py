@@ -21,9 +21,27 @@ def add_domain_to_blocklist(domain, filename='crypto_scam_blocklist.txt'):
             file.write(f"{line}\n")
     print(f"{domain} è stato aggiunto alla blocklist.")
 
+# Funzione per importare i domini da un file
+def import_domains_from_file(file_path, filename='crypto_scam_blocklist.txt'):
+    if not os.path.exists(file_path):
+        print(f"Errore: il file {file_path} non esiste.")
+        return
+    with open(file_path, 'r') as file:
+        domains = file.readlines()
+    domains = [domain.strip() for domain in domains if domain.strip() != '']
+    for domain in domains:
+        add_domain_to_blocklist(domain, filename)
+
 # Analisi degli argomenti da linea di comando
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Aggiungi un dominio alla blocklist di scam crypto.')
-    parser.add_argument('-d', '--domain', type=str, required=True, help='Il dominio da aggiungere alla blocklist.')
+    parser = argparse.ArgumentParser(description='Aggiungi domini alla blocklist di scam crypto.')
+    parser.add_argument('-d', '--domain', type=str, help='Il dominio da aggiungere alla blocklist.')
+    parser.add_argument('-f', '--file', type=str, help='File contenente i domini da aggiungere alla blocklist.')
     args = parser.parse_args()
-    add_domain_to_blocklist(args.domain)
+
+    if args.domain:
+        add_domain_to_blocklist(args.domain)
+    elif args.file:
+        import_domains_from_file(args.file)
+    else:
+        print("Errore: è necessario specificare un dominio con -d o un file con -f.")
