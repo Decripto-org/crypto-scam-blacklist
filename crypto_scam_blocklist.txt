@@ -2,6 +2,7 @@
 ||01broker.com^
 ||01crypto.com^
 ||11eabay.com^
+||123bond.co.uk^
 ||1875-financeinvest.com^
 ||1wowei.xyz^
 ||2139.com^
@@ -9,6 +10,7 @@
 ||22-trading.com^
 ||2251ws.com^
 ||247protrade.com^
+||24faster.com^
 ||24forextradestocks.com^
 ||24hcapital.com^
 ||24waysfx.com^
@@ -379,6 +381,7 @@
 ||cityofbinary.com^
 ||cityofinvestment.com^
 ||clevercpt.com^
+||client.24waysfx.com^
 ||client.eurotrades.com^
 ||client.my24-coin.com^
 ||clpskki.com^
@@ -1552,6 +1555,7 @@
 ||trustpixs.com^
 ||truthministriesglobal.org^
 ||trx-core.cc^
+||twentyfourquest.com^
 ||twixmarshalsfx.com^
 ||ubinary.com^
 ||ubtforex.com^
