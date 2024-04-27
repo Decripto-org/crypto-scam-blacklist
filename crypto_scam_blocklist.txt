@@ -133,6 +133,7 @@
 ||algebris-investment.com^
 ||algo-crypto.com^
 ||algotraderfx.com^
+||alifedex.com^
 ||allfinancialmarkets.com^
 ||allfinancialtrading.com^
 ||allglobalfin.com^
