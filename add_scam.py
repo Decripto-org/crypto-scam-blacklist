@@ -13,9 +13,11 @@ def add_domain_to_blocklist(domain, filename='crypto_scam_blocklist.txt'):
             print(f"{domain} è già presente nella blocklist.")
             return
         lines.append(formatted_domain)
-        lines.sort()
     else:
         lines = [formatted_domain]
+    # Rimozione dei duplicati e ordinamento della lista
+    lines = list(set(lines))
+    lines.sort()
     with open(filename, 'w') as file:
         for line in lines:
             file.write(f"{line}\n")
