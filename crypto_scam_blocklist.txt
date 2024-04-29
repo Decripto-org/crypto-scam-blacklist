@@ -1115,6 +1115,7 @@
 ||fundiza.com^
 ||fundrockcrypto.com^
 ||funds-partnership.com^
+||furucombo.app^
 ||fusion-fin.com^
 ||fusionfx24.com^
 ||futurefxpro.com^
@@ -1650,6 +1651,7 @@
 ||moneyx.club.^
 ||monnaiestech.com^
 ||mooncash.biz^
+||mooreo.com^
 ||morganfxcapital.com^
 ||motionforex.com^
 ||mrtmarkets.com^
