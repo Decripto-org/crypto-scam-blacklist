@@ -60,6 +60,7 @@
 ||Revolt-Finance.com^
 ||Topvexominersfx.com^
 ||UKFinancialBonds.co.uk^
+||a5coinex.com^
 ||aafxtrading.com^
 ||abalisfinanceltd.com^
 ||abbeystockbroker.com^
@@ -484,6 +485,7 @@
 ||btcetftoken.io^
 ||btcfx.one^
 ||btcmmining.cc^
+||btcnm.com^
 ||btcprofit.com^
 ||btcswing.com^
 ||btcusdtbank.com^
@@ -1075,6 +1077,7 @@
 ||fluxon18.top^
 ||flyingpro.online^
 ||fm-fx.com^
+||fmallex.com^
 ||fmarketx.com^
 ||fmtrader.com^
 ||fmtradex.com^
@@ -1111,6 +1114,7 @@
 ||ftradition.com^
 ||ftres.tech^
 ||fullmarkets.com^
+||fun-eth.com^
 ||fundcryptosecure.com^
 ||fundiza.com^
 ||fundrockcrypto.com^
