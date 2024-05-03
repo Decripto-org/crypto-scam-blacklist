@@ -451,6 +451,7 @@
 ||boxvn-invest.com^
 ||bp-direct.com^
 ||bqsmart.co.nz^
+||bravebison.live^
 ||brc20u.com^
 ||breescapitalgroup.com^
 ||brightfinance.co^
@@ -705,6 +706,7 @@
 ||coombeskiwonski.com^
 ||corecoin.net^
 ||cornerfxtrade24.co^
+||corsairgroup.com^
 ||corsairnow.com^
 ||corumconsultinggrp.com^
 ||costco8.com^
@@ -1253,6 +1255,7 @@
 ||glob-markets.co^
 ||glob-markets.net^
 ||global-capital.live^
+||global-corporationpop.com^
 ||global-dtt.com^
 ||globalcapitalfx.net^
 ||globalcfd.co^
