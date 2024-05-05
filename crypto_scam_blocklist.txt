@@ -1252,6 +1252,7 @@
 ||giant.zone^
 ||girauno.com^
 ||giti-usdt.com^
+||glencorlimited.org^
 ||glenorrisinvlimited.com^
 ||glob-markets.co^
 ||glob-markets.net^
