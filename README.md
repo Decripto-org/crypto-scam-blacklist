@@ -38,3 +38,15 @@ Let's work together to keep the crypto community safe!
 ## Acknowledgments
 
 Thanks to all contributors and users helping to maintain and improve this blocklist.
+
+## Your site is on the list but is legit?
+
+If you find your site in the blacklist but is not a scam site, please let us know opening an issue!
+
+Open an issue here: https://github.com/Decripto-org/crypto-scam-blacklist/issues
+
+1. Green button "New issue"
+2. Insert Title and in the description write your site and all the information about it
+3. Green button "Submit new issue"
+
+Our team will take care of the case!
