@@ -9,11 +9,11 @@ To use this blocklist download the uBlock Origin extension ([Firefox](https://ad
 1. Open uBlock Origin's dashboard by clicking on the uBlock Origin icon in your browser, then click on the "Dashboard" button (the a gear icon).
 2. Navigate to the "Filter lists" tab.
 3. At the bottom of the page, find the "Custom" section.
-4. Check the box for "Import..." and paste the URL of the `crypto_scam_blocklist.txt` file from this repository. 
+4. Check the box for "Import..." and paste this URL for the blacklist: 
 	```
 	https://raw.githubusercontent.com/Decripto-org/crypto-scam-blacklist/main/crypto_scam_blocklist.txt
 	```
-5. Click "Apply changes" to update your filter lists.
+5. Click "Apply changes" to update your filter lists in the top left corner.
 
 ## Contributing
 
@@ -24,6 +24,7 @@ Contribute here: https://github.com/Decripto-org/crypto-scam-blacklist/issues
 1. Green button "New issue"
 2. Insert Title and description of the scam
 3. Green button "Submit new issue"
+4. Select a label in the right side
 
 ## Disclaimer
 
@@ -48,5 +49,6 @@ Open an issue here: https://github.com/Decripto-org/crypto-scam-blacklist/issues
 1. Green button "New issue"
 2. Insert Title and in the description write your site and all the information about it
 3. Green button "Submit new issue"
+4. Select a label in the right side
 
 Our team will take care of the case!
