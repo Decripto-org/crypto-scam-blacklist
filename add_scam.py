@@ -3,6 +3,10 @@ import os
 
 # Definizione della funzione per aggiungere il dominio alla lista
 def add_domain_to_blocklist(domain, filename='crypto_scam_blocklist.txt'):
+    # Rimozione di 'www.' se presente nel dominio
+    if domain.startswith("www."):
+        domain = domain[4:]  # Rimuove i primi quattro caratteri 'www.'
+
     formatted_domain = f'||{domain}^'
     if os.path.exists(filename):
         with open(filename, 'r') as file:

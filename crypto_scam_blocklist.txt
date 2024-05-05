@@ -51,6 +51,7 @@
 ||2021stellar.org^
 ||2021uni.org^
 ||2022coinbase.net^
+||2047249581.dfgqdsd.ru^
 ||209.159.154.156^
 ||20btc.net^
 ||20eth.com^
@@ -119,6 +120,7 @@
 ||3tesla.club^
 ||3tesla.info^
 ||4-xrp.com^
+||437-cfk-530.mktoweb.com^
 ||444eth.ml^
 ||450stocktradefx.com^
 ||4ever.fun^
@@ -286,6 +288,7 @@
 ||active-brokerage.com^
 ||activebanque.com^
 ||activmarkets.com^
+||ad1.grapeshot.co.uk^
 ||ada-cardano.us^
 ||ada-event.info^
 ||ada-event.life^
@@ -3273,6 +3276,7 @@
 ||curves.exchange^
 ||curves.fi^
 ||curwe.fi^
+||customlytics.kayzen.io^
 ||cutve.finance^
 ||cuu.su^
 ||cuvre.financial^
@@ -3284,6 +3288,7 @@
 ||cybertruck.work^
 ||cycrypto.com^
 ||cycrypto.net^
+||cyrigh.com^
 ||cz-binance.com^
 ||cz-giveaway.com^
 ||czbinance.co^
@@ -6106,11 +6111,14 @@
 ||gwayaugust.blogspot.com^
 ||gwt-capital.com^
 ||gycrypto.com^
+||gyuio.com^
 ||h1.magnuscapitalfx.com^
 ||h5.castleshopping.net^
 ||hadeplatform.net^
 ||hadica.com^
 ||halfbit.cc^
+||handwashgel.online^
+||handwritingnomad.com^
 ||hansrajlimited.com^
 ||hantecfunds.com^
 ||happy-coin.org^
@@ -6728,6 +6736,7 @@
 ||jerseytrade.icu^
 ||jetcapitals.com^
 ||jeton.com^
+||jhlovojt.org^
 ||jibreltoken.in^
 ||jiocoins.io^
 ||jmycrypto.com^
@@ -6737,6 +6746,7 @@
 ||john-mcafee-events.com^
 ||john-mcafee.com^
 ||john.mcafee.getforge.io^
+||john153.duckdns.org^
 ||johnmcafee.ethgivings.net^
 ||johnmcafee.promo^
 ||johnmcaffe.tumblr.com^
@@ -13892,6 +13902,7 @@
 ||remme.in^
 ||remme.live^
 ||remme.ws^
+||remote88.com^
 ||renairdrop.com^
 ||renaissanceinvestltd.co^
 ||renaissanceinvestltd.com^
@@ -15592,6 +15603,7 @@
 ||usdt.uniswap.team^
 ||usdtpos.net^
 ||user.paxfulpolicy.com^
+||uspzb.top^
 ||utcinvest.com^
 ||utctoken.com^
 ||utgscri.com^
@@ -15988,6 +16000,7 @@
 ||welttrades.com^
 ||wepower.vision^
 ||wepowers.network^
+||werkzeugprodukte.com^
 ||westpaceurope.com^
 ||westwidelenders.co.uk^
 ||wetimox.blogspot.com^
@@ -16162,6 +16175,7 @@
 ||xgivex.blogspot.com^
 ||xglobalfin.com^
 ||xgtzjrgs.com^
+||xgwseexlox.duckdns.org^
 ||xiaomibtc.com^
 ||xlblogz.blogspot.com^
 ||xllwallet.com^
