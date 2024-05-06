@@ -9,21 +9,20 @@ To use this blocklist download the uBlock Origin extension ([Firefox](https://ad
 1. Open uBlock Origin's dashboard by clicking on the uBlock Origin icon in your browser, then click on the "Dashboard" button (the a gear icon).
 2. Navigate to the "Filter lists" tab.
 3. At the bottom of the page, find the "Custom" section.
-4. Check the box for "Import..." and paste the URL of the `crypto_scam_blocklist.txt` file from this repository. 
+4. Check the box for "Import..." and paste this URL for the blacklist: 
 	```
 	https://raw.githubusercontent.com/Decripto-org/crypto-scam-blacklist/main/crypto_scam_blocklist.txt
 	```
-5. Click "Apply changes" to update your filter lists.
+5. Click "Apply changes" to update your filter lists in the top left corner.
 
 ## Contributing
 
 Contributions to this blocklist are welcome. To contribute, please open an issue in this repository, write the domains that you want to include, and save the issue.
 
-Contribute here: https://github.com/Decripto-org/crypto-scam-blacklist/issues
+Contribute here: https://github.com/Decripto-org/crypto-scam-blacklist/issues/new
 
-1. Green button "New issue"
-2. Insert Title and description of the scam
-3. Green button "Submit new issue"
+1. Insert Title and description of the scam
+2. Green button "Submit new issue"
 
 ## Disclaimer
 
@@ -38,3 +37,14 @@ Let's work together to keep the crypto community safe!
 ## Acknowledgments
 
 Thanks to all contributors and users helping to maintain and improve this blocklist.
+
+## Your site is on the list but is legit?
+
+If you find your site in the blacklist but is not a scam site, please let us know opening an issue!
+
+Open an issue here: https://github.com/Decripto-org/crypto-scam-blacklist/issues/new
+
+1. Insert Title and in the description write your site and all the information about it
+2. Green button "Submit new issue"
+
+Our team will take care of the case!
