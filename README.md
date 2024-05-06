@@ -19,12 +19,10 @@ To use this blocklist download the uBlock Origin extension ([Firefox](https://ad
 
 Contributions to this blocklist are welcome. To contribute, please open an issue in this repository, write the domains that you want to include, and save the issue.
 
-Contribute here: https://github.com/Decripto-org/crypto-scam-blacklist/issues
+Contribute here: https://github.com/Decripto-org/crypto-scam-blacklist/issues/new
 
-1. Green button "New issue"
-2. Insert Title and description of the scam
-3. Green button "Submit new issue"
-4. Select a label in the right side
+1. Insert Title and description of the scam
+2. Green button "Submit new issue"
 
 ## Disclaimer
 
@@ -44,11 +42,9 @@ Thanks to all contributors and users helping to maintain and improve this blockl
 
 If you find your site in the blacklist but is not a scam site, please let us know opening an issue!
 
-Open an issue here: https://github.com/Decripto-org/crypto-scam-blacklist/issues
+Open an issue here: https://github.com/Decripto-org/crypto-scam-blacklist/issues/new
 
-1. Green button "New issue"
-2. Insert Title and in the description write your site and all the information about it
-3. Green button "Submit new issue"
-4. Select a label in the right side
+1. Insert Title and in the description write your site and all the information about it
+2. Green button "Submit new issue"
 
 Our team will take care of the case!
