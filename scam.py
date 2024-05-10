@@ -59,29 +59,32 @@ def import_domains_from_file(file_path, operation, filename='crypto_scam_blockli
         remove_domains_from_blocklist(domains, filename, verbose)
 
 def clean_domains(input_file, output_file):
+    print("Updating JSON file...")
     cleaned_domains = set()
 
     with open(input_file, 'r', encoding='utf-8') as f:
         for line in f:
-            # Rimuovi il prefisso || e le parti successive al dominio
             domain = line.split('||')[-1].split('^')[0].strip()
             cleaned_domains.add(domain)
 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(list(cleaned_domains), f, indent=4)
-        print("Updated JSON file.")
+        print("JSON file updated.")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Manage domains in the crypto scam blocklist.')
-    parser.add_argument('-d', '--domain', type=str, help='Domain to add to the blocklist.')
+    parser.add_argument('-d', '--domain', type=str, help='Domain to add or remove from the blocklist.')
     parser.add_argument('-f', '--file', type=str, help='File containing domains to add or remove from the blocklist.')
     parser.add_argument('-v', '--verbose', action='store_true', help='Show details of domains as they are processed.')
-    parser.add_argument('-r', '--remove', action='store_true', help='Remove domains from the blocklist using the specified file.')
+    parser.add_argument('-r', '--remove', action='store_true', help='Remove domains from the blocklist using the specified domain or file.')
     
     args = parser.parse_args()
 
     if args.domain:
-        add_domains_to_blocklist([args.domain], verbose=args.verbose)
+        if args.remove:
+            remove_domains_from_blocklist([args.domain], verbose=args.verbose)
+        else:
+            add_domains_to_blocklist([args.domain], verbose=args.verbose)
     elif args.file:
         if args.remove:
             import_domains_from_file(args.file, 'remove', verbose=args.verbose)
