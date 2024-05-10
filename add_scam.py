@@ -1,6 +1,7 @@
 import argparse
 import os
 from tqdm import tqdm
+import json
 
 def format_domain(domain):
     return f'||{domain[4:] if domain.startswith("www.") else domain}^'
@@ -57,6 +58,19 @@ def import_domains_from_file(file_path, operation, filename='crypto_scam_blockli
     elif operation == 'remove':
         remove_domains_from_blocklist(domains, filename, verbose)
 
+def clean_domains(input_file, output_file):
+    cleaned_domains = set()
+
+    with open(input_file, 'r', encoding='utf-8') as f:
+        for line in f:
+            # Rimuovi il prefisso || e le parti successive al dominio
+            domain = line.split('||')[-1].split('^')[0].strip()
+            cleaned_domains.add(domain)
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(list(cleaned_domains), f, indent=4)
+        print("Updated JSON file.")
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Manage domains in the crypto scam blocklist.')
     parser.add_argument('-d', '--domain', type=str, help='Domain to add to the blocklist.')
@@ -76,66 +90,6 @@ if __name__ == '__main__':
     else:
         print("Error: You must specify a domain with -d or a file with -f.")
 
-
-
-
-
-
-# import argparse
-# import os
-# from tqdm import tqdm
-
-# def add_domains_to_blocklist(domains, filename='crypto_scam_blocklist.txt', verbose=False):
-#     # Leggere i domini esistenti nel file di blocklist, se esiste
-#     if os.path.exists(filename):
-#         with open(filename, 'r') as file:
-#             existing_domains = set(line.strip() for line in file)
-#     else:
-#         existing_domains = set()
-
-#     # Preparare i nuovi domini rimuovendo 'www.' e formattando
-#     new_domains = set(f'||{domain[4:] if domain.startswith("www.") else domain}^' for domain in domains)
-
-#     # Unire i set e scrivere solo se ci sono nuovi domini
-#     combined_domains = existing_domains.union(new_domains)
-#     total_added = 0
-#     if combined_domains != existing_domains:
-#         with open(filename, 'w') as file:
-#             # Setup tqdm with total number of domains to be written
-#             progress_bar = tqdm(sorted(combined_domains), total=len(combined_domains), desc="Scrivendo blocklist")
-#             for domain in progress_bar:
-#                 file.write(f"{domain}\n")
-#                 if verbose and (domain in new_domains):
-#                     print(f"Aggiunto: {domain}")
-#                 # Increment the progress bar description on the fly
-#                 if domain in new_domains:
-#                     total_added += 1
-#                     progress_bar.set_description(f"Aggiunti {total_added} di {len(new_domains)}")
-#         print(f"Totale {total_added} nuovi domini aggiunti alla blocklist.")
-#     else:
-#         print("Nessun nuovo dominio aggiunto.")
-
-# def import_domains_from_file(file_path, filename='crypto_scam_blocklist.txt', verbose=False):
-#     if not os.path.exists(file_path):
-#         print(f"Errore: il file {file_path} non esiste.")
-#         return
-    
-#     with open(file_path, 'r') as file:
-#         domains = [line.strip() for line in file if line.strip()]
-
-#     tqdm.write(f"Elaborazione di {len(domains)} domini...")
-#     add_domains_to_blocklist(domains, filename, verbose)
-
-# if __name__ == '__main__':
-#     parser = argparse.ArgumentParser(description='Aggiungi domini alla blocklist di scam crypto.')
-#     parser.add_argument('-d', '--domain', type=str, help='Il dominio da aggiungere alla blocklist.')
-#     parser.add_argument('-f', '--file', type=str, help='File contenente i domini da aggiungere alla blocklist.')
-#     parser.add_argument('-v', '--verbose', action='store_true', help='Mostra dettagli dei domini man mano che vengono aggiunti.')
-#     args = parser.parse_args()
-
-#     if args.domain:
-#         add_domains_to_blocklist([args.domain], verbose=args.verbose)
-#     elif args.file:
-#         import_domains_from_file(args.file, verbose=args.verbose)
-#     else:
-#         print("Errore: è necessario specificare un dominio con -d o un file con -f.")
+    input_file = 'crypto_scam_blocklist.txt'
+    output_file = 'json_domains.json'
+    clean_domains(input_file, output_file)
