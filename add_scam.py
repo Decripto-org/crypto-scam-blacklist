@@ -69,6 +69,7 @@ def clean_domains(input_file, output_file):
 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(list(cleaned_domains), f, indent=4)
+        print("Updated JSON file.")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Manage domains in the crypto scam blocklist.')
