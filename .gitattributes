@@ -1,0 +1,2 @@
+json_domains.json filter=lfs diff=lfs merge=lfs -text
+crypto_scam_blocklist.txt filter=lfs diff=lfs merge=lfs -text
