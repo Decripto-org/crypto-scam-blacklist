@@ -2,7 +2,7 @@
 
 This repository contains a blocklist of domains associated with crypto scams, compiled for use with uBlock Origin or other similar ad-blocking tools. The purpose is to help protect users from potentially harmful and fraudulent websites.
 
-At the moment we have more than 1'750'260 scam domains!
+At the moment we have more than 1'750'370 scam domains!
 
 ## How to Use
 
