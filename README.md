@@ -13,7 +13,7 @@ To use this blocklist download the uBlock Origin extension ([Firefox](https://ad
 3. At the bottom of the page, find the "Custom" section.
 4. Check the box for "Import..." and paste this URL for the blacklist: 
 	```
-	https://raw.githubusercontent.com/Decripto-org/crypto-scam-blacklist/main/crypto_scam_blocklist.txt
+	https://media.githubusercontent.com/media/Decripto-org/crypto-scam-blacklist/refs/heads/main/crypto_scam_blocklist.txt
 	```
 5. Click "Apply changes" to update your filter lists in the top left corner.
 
