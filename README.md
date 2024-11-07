@@ -40,6 +40,11 @@ Let's work together to keep the crypto community safe!
 
 Thanks to all contributors and users helping to maintain and improve this blocklist.
 
+## Special mentions
+
+We added the blacklist also from:
+- www.cryptolegal.uk
+
 ## Your site is on the list but is legit?
 
 If you find your site in the blacklist but is not a scam site, please let us know opening an issue!
