@@ -2,7 +2,7 @@
 
 This repository contains a blocklist of domains associated with crypto scams, compiled for use with uBlock Origin or other similar ad-blocking tools. The purpose is to help protect users from potentially harmful and fraudulent websites.
 
-At the moment we have more than 1'750'370 scam domains!
+At the moment we have more than 1'770'365 scam domains!
 
 ## How to Use
 
@@ -39,11 +39,6 @@ Let's work together to keep the crypto community safe!
 ## Acknowledgments
 
 Thanks to all contributors and users helping to maintain and improve this blocklist.
-
-## Special mentions
-
-We added the blacklist also from:
-- www.cryptolegal.uk
 
 ## Your site is on the list but is legit?
 
